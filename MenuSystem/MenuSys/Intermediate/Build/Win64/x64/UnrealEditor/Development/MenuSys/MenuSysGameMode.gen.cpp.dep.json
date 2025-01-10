@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\intermediate\\build\\win64\\unrealeditor\\inc\\menusys\\uht\\menusysgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\intermediate\\build\\win64\\x64\\menusyseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\menusys\\definitions.menusys.h",
+            "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\source\\menusys\\menusysgamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\intermediate\\build\\win64\\unrealeditor\\inc\\menusys\\uht\\menusysgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

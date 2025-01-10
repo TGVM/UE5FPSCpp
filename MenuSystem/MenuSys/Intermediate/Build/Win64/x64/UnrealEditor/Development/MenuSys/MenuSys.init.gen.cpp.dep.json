@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\intermediate\\build\\win64\\unrealeditor\\inc\\menusys\\uht\\menusys.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\intermediate\\build\\win64\\x64\\menusyseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\menusys\\definitions.menusys.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

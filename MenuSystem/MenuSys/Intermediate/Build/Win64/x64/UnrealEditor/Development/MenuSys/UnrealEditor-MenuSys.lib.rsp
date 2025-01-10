@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MenuSys.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tgvm1\OneDrive\Documentos\Programming\Unreal Engine\UE5 Cpp Multiplayer Shooter\UE5FPSCpp\MenuSystem\MenuSys\Intermediate\Build\Win64\x64\MenuSysEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\tgvm1\OneDrive\Documentos\Programming\Unreal Engine\UE5 Cpp Multiplayer Shooter\UE5FPSCpp\MenuSystem\MenuSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSys\MenuSys.init.gen.cpp.obj"
+"C:\Users\tgvm1\OneDrive\Documentos\Programming\Unreal Engine\UE5 Cpp Multiplayer Shooter\UE5FPSCpp\MenuSystem\MenuSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSys\MenuSysCharacter.gen.cpp.obj"
+"C:\Users\tgvm1\OneDrive\Documentos\Programming\Unreal Engine\UE5 Cpp Multiplayer Shooter\UE5FPSCpp\MenuSystem\MenuSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSys\MenuSysGameMode.gen.cpp.obj"
+"C:\Users\tgvm1\OneDrive\Documentos\Programming\Unreal Engine\UE5 Cpp Multiplayer Shooter\UE5FPSCpp\MenuSystem\MenuSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSys\MenuSys.cpp.obj"
+"C:\Users\tgvm1\OneDrive\Documentos\Programming\Unreal Engine\UE5 Cpp Multiplayer Shooter\UE5FPSCpp\MenuSystem\MenuSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSys\MenuSysCharacter.cpp.obj"
+"C:\Users\tgvm1\OneDrive\Documentos\Programming\Unreal Engine\UE5 Cpp Multiplayer Shooter\UE5FPSCpp\MenuSystem\MenuSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSys\MenuSysGameMode.cpp.obj"
+"C:\Users\tgvm1\OneDrive\Documentos\Programming\Unreal Engine\UE5 Cpp Multiplayer Shooter\UE5FPSCpp\MenuSystem\MenuSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSys\Default.rc2.res"
+/OUT:"C:\Users\tgvm1\OneDrive\Documentos\Programming\Unreal Engine\UE5 Cpp Multiplayer Shooter\UE5FPSCpp\MenuSystem\MenuSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSys\UnrealEditor-MenuSys.lib"

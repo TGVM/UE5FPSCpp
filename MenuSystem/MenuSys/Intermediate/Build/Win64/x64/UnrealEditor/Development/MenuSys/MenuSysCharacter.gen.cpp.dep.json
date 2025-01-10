@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\intermediate\\build\\win64\\unrealeditor\\inc\\menusys\\uht\\menusyscharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\intermediate\\build\\win64\\x64\\menusyseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\menusys\\definitions.menusys.h",
+            "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\source\\menusys\\menusyscharacter.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessiondelegates.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "c:\\users\\tgvm1\\onedrive\\documentos\\programming\\unreal engine\\ue5 cpp multiplayer shooter\\ue5fpscpp\\menusystem\\menusys\\intermediate\\build\\win64\\unrealeditor\\inc\\menusys\\uht\\menusyscharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
