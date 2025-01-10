@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MenuSys.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MenuSys.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MenuSysEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MenuSys">
+      <UniqueIdentifier>{EC09EBAD-41DA-3B4C-BD08-B171AF03A23F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MenuSys\MenuSys.Build.cs">
+      <Filter>Source\MenuSys</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MenuSys\MenuSys.cpp">
+      <Filter>Source\MenuSys</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MenuSys\MenuSys.h">
+      <Filter>Source\MenuSys</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MenuSys\MenuSysCharacter.cpp">
+      <Filter>Source\MenuSys</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MenuSys\MenuSysCharacter.h">
+      <Filter>Source\MenuSys</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MenuSys\MenuSysGameMode.cpp">
+      <Filter>Source\MenuSys</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MenuSys\MenuSysGameMode.h">
+      <Filter>Source\MenuSys</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

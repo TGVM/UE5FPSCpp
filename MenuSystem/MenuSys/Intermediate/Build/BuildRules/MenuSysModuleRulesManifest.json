@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\tgvm1\\OneDrive\\Documentos\\Programming\\Unreal Engine\\UE5 Cpp Multiplayer Shooter\\UE5FPSCpp\\MenuSystem\\MenuSys\\Source\\MenuSys\\MenuSys.Build.cs",
+		"C:\\Users\\tgvm1\\OneDrive\\Documentos\\Programming\\Unreal Engine\\UE5 Cpp Multiplayer Shooter\\UE5FPSCpp\\MenuSystem\\MenuSys\\Source\\MenuSys.Target.cs",
+		"C:\\Users\\tgvm1\\OneDrive\\Documentos\\Programming\\Unreal Engine\\UE5 Cpp Multiplayer Shooter\\UE5FPSCpp\\MenuSystem\\MenuSys\\Source\\MenuSysEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
