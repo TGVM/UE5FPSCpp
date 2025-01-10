@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\tgvm1\\OneDrive\\Documentos\\Programming\\Unreal Engine\\UE5 Cpp Multiplayer Shooter\\UE5FPSCpp\\MPTesting\\MPTesting\\Source\\MPTesting\\MPTesting.Build.cs",
+		"C:\\Users\\tgvm1\\OneDrive\\Documentos\\Programming\\Unreal Engine\\UE5 Cpp Multiplayer Shooter\\UE5FPSCpp\\MPTesting\\MPTesting\\Source\\MPTesting.Target.cs",
+		"C:\\Users\\tgvm1\\OneDrive\\Documentos\\Programming\\Unreal Engine\\UE5 Cpp Multiplayer Shooter\\UE5FPSCpp\\MPTesting\\MPTesting\\Source\\MPTestingEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

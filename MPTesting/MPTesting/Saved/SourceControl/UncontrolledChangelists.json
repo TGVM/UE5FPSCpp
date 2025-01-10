@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tgvm1/OneDrive/Documentos/Programming/Unreal Engine/UE5 Cpp Multiplayer Shooter/UE5FPSCpp/MPTesting/MPTesting/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/tgvm1/OneDrive/Documentos/Programming/Unreal Engine/UE5 Cpp Multiplayer Shooter/UE5FPSCpp/MPTesting/MPTesting/Content/ThirdPerson/Maps/Lobby.umap",
+				"C:/Users/tgvm1/OneDrive/Documentos/Programming/Unreal Engine/UE5 Cpp Multiplayer Shooter/UE5FPSCpp/MPTesting/MPTesting/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
